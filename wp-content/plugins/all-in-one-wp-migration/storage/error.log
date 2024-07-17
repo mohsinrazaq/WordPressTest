@@ -1,0 +1,6 @@
+Jul 17 2024 13:37:36
+{"type":8192,"message":"Creation of dynamic property Jetpack_Gallery_Settings::$gallery_types is deprecated","file":"C:\\xampp\\htdocs\\WordPressTest\\wp-content\\plugins\\jetpack\\class-jetpack-gallery-settings.php","line":34}
+
+Jul 17 2024 13:37:46
+{"type":8192,"message":"Creation of dynamic property Jetpack_Gallery_Settings::$gallery_types is deprecated","file":"C:\\xampp\\htdocs\\WordPressTest\\wp-content\\plugins\\jetpack\\class-jetpack-gallery-settings.php","line":34}
+
